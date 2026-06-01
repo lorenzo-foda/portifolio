@@ -1,0 +1,24 @@
+.trabalhos{
+    border: 2px black solid; 
+    height: 440px;
+    width: 720px;
+    margin: 10px;
+}
+.descricao{
+    border: 2px black solid; 
+    height: 200px;
+    width: 430px;
+    margin: 10px;
+}
+.habilidades{
+    border: 2px black solid; 
+    height: 1000px;
+    width: 350px;
+    margin: 10px;
+}
+
+.test {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
